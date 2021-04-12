@@ -1,0 +1,3 @@
+# tugasmodulinheritence
+
+Latihan 1
